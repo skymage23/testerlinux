@@ -1,0 +1,5 @@
+setup-DO_NOT_PUT_IN_REPO.sh
+__pycache__
+__pycache__/*
+*/__pycache__
+*/__pycache__/*
